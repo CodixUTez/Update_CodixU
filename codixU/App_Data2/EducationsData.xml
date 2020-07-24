@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Educations>
+  <Info>
+    <Writer>Bora aslan</Writer>
+    <About>
+      Yazılım ve Mühendisliği Bölüm Başkanı
+    </About>
+    <Tag>Python</Tag>
+  </Info>
+  <Education>
+    <Title>Python</Title>
+    <Content>
+      1991'den beri Python programlama dili sadece gereksiz programlar için tamamlayıcı bir dil olarak değerlendiriliyordu. Hatta “Automate the Boring Stuff” (Türkçe'ye "Sıkıcı Şeyleri Otomatikleştiren" olarak çevirebileceğimiz popüler bir kitap) adında bir kitap dahi yayınlanmıştır.
+
+      Bununla birlikte son birkaç yılda Python modern yazılım geliştirme, altyapı yönetimi ve veri analizinde birinci sınıf bir programlama dili olarak ön plana çıkmıştır. Artık hackerlar için bir arka kapı oluşturucusu değil, web uygulaması oluşturma ve sistem yönetiminde önemli rol alma, veri analizleri ve makine öğreniminde parlayan bir dil olarak ün kazanmıştır.
+    </Content>
+
+  </Education>
+  <Codes>
+    <Id>1</Id>
+    <Code>
+      input : sayı gir
+    </Code>
+  </Codes>
+  <Codes>
+    <Id>ikinci kod</Id>
+    <Code>
+      for x++
+    </Code>
+  </Codes>
+  <Codes>
+    <Id>ucuncu satır </Id>
+    <Code>
+      print x
+    </Code>
+  </Codes>
+</Educations>

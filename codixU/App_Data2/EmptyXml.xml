@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Educations>
+  <Info>
+    <Writer>
+      
+    </Writer>
+    <About>
+      
+    </About>
+    <Tag>
+      
+    </Tag>
+  </Info>
+  <Education>
+    <Title>
+      
+    </Title>
+    <Content>
+      
+    </Content>
+
+  </Education>
+  <Codes>
+    <Id>1</Id>
+    <Code>
+      
+    </Code>
+  </Codes>
+  <Codes>
+    <Id>2</Id>
+    <Code>
+      
+    </Code>
+  </Codes>
+</Educations>
+
+

@@ -1,0 +1,414 @@
+﻿
+@{
+    ViewBag.Title = "StudentCourses";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://kit.fontawesome.com/b97e424f4a.js" crossorigin="anonymous"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<style>
+    body {
+        background-color: #131E3A;
+    }
+
+    span {
+        font-size: 15px;
+    }
+
+    .box {
+        padding: 60px 0px;
+    }
+
+    h4 {
+        color: darkslategray;
+    }
+
+    .box-part {
+        background: #FFF;
+        border-radius: 0;
+        padding: 60px 10px;
+        margin: 30px 0px;
+    }
+
+    .text {
+        margin: 20px 0px;
+        color: darkslategray;
+    }
+</style>
+<body>
+    <header class="masthead">
+        <div class="container">
+            <div class="box">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-java fa-5x" aria-hidden="true"></i>
+                                </span>
+
+                                <div class="title">
+                                    <h4>Java</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fas fa-copyright fa-5x" aria-hidden="true"></i>
+                                </span>
+
+                                <div class="title">
+                                    <h4>C</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-php fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Php</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-js fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>JavaScript</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-python fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Python</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-html5 fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>HTML</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-css3-alt fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>CSS</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-react fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>React</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fas fa-database fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>SQL</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fas fa-copyright fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>C#</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="far fa-gem fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Ruby</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-android fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Android</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-swift fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Swift</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-angular fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Angular</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fab fa-bootstrap fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>Bootstrap</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fas fa-code fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>AJAX</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                            <div class="box-part text-center">
+
+                                <span style="color:#6f2da8">
+                                    <i class="fas fa-desktop fa-5x" aria-hidden="true"></i>
+                                </span>
+
+
+                                <div class="title">
+                                    <h4>JQuery</h4>
+                                </div>
+
+                                <div class="text">
+                                    <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+                                </div>
+
+                                <a href="~/Student/Edutype">Daha Fazla Gör</a>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>

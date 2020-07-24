@@ -1,0 +1,76 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>codixU</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/Files/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="~/Files/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <script src="https://kit.fontawesome.com/b97e424f4a.js" crossorigin="anonymous"></script>
+    <link href="~/Files/EduType.css" rel="stylesheet" />
+    <link href="~/Files/StudentLayout.css" rel="stylesheet" />
+</head>
+
+<body>
+    <section id="apply-aprt" class="pb-120">
+        <div class="container">
+            <div class="apply">
+                <div class="row no-gutters">
+                    <div class="col-lg-6">
+                        <div class="apply-cont apply-color-1">
+                            <img src="~/Img/xml.png" height="413" width="370" />
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="apply-cont apply-color-2">
+                            <h3>Xml Oluşturma ve Yükleme</h3>
+                            <p>Sizler için hazır boş Xml yapısı hazırladık. Xml'i yandaki resme göre hazırlar yükler iseniz eğitiminizi sorunsuz gösterebiliriz.</p>
+                            @using (Html.BeginForm("Download", "Educator", FormMethod.Post))
+                            {
+                                <button type="submit" class="main-btn">
+                                    indir
+                                </button> <br>
+                            }
+                            @using (Html.BeginForm("Upload", "Educator", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                            {
+                                Html.ValidationSummary(true);
+
+                                <input type="file" id="myFile" name="dosya" style="display:none;" accept="text/xml"> <br>
+                                <label for="myFile" class="main-btn">Dosya Seç</label><br><br>
+                                <button type="submit" class="main-btn">Yükle</button>
+
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <script src="~/Scripts/jquery.min.js"></script>
+    <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/jquery.easing.min.js"></script>
+    <script src="~/Scripts/jqBootstrapValidation.js"></script>
+    <script src="~/Scripts/contact_me.js"></script>
+    <script src="~/Scripts/agency.min.js"></script>
+</body>
+</html>

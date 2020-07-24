@@ -1,0 +1,428 @@
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\codixU.dll.config
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\codixU.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\codixU.pdb
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csc.exe
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csc.exe.config
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csc.rsp
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csi.exe
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csi.exe.config
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\csi.rsp
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.AppContext.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Console.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.IO.Compression.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Claims.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.ValueTuple.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\vbc.exe
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\vbc.exe.config
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\vbc.rsp
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\VBCSCompiler.exe
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Antlr3.Runtime.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Newtonsoft.Json.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Helpers.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Mvc.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Optimization.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Razor.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.Razor.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\WebGrease.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Helpers.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Mvc.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Optimization.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.Razor.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\System.Web.WebPages.Razor.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Newtonsoft.Json.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Antlr3.Runtime.pdb
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.Razor.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\obj\Debug\codixU.csprojAssemblyReference.cache
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\obj\Debug\codixU.csproj.CopyComplete
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\obj\Debug\codixU.dll
+C:\Users\NAZLI CAN ALTIN\source\repos\codixU\codixU\obj\Debug\codixU.pdb
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\codixU.dll.config
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\codixU.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\codixU.pdb
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.exe
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.exe.config
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.rsp
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.exe
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.exe.config
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.rsp
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.AppContext.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Console.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Compression.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Claims.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.ValueTuple.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe.config
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.rsp
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Helpers.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Mvc.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Optimization.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Razor.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\WebGrease.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Helpers.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Mvc.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Optimization.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Razor.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.pdb
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Razor.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.csprojAssemblyReference.cache
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.CopyComplete
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.dll
+C:\Users\NAZLI CAN ALTIN\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.pdb
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\codixU.dll.config
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\codixU.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\codixU.pdb
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.Razor.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\obj\Debug\codixU.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\obj\Debug\codixU.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\obj\Debug\codixU.pdb
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\Tez\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\codixU.dll.config
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\codixU.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\codixU.pdb
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.Razor.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.CopyComplete
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.dll
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.pdb
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.Migrations.CreateMigrations.resources
+C:\Users\lenovo\Desktop\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.GenerateResource.cache
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\codixU.dll.config
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\codixU.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\codixU.pdb
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csc.exe
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csc.exe.config
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csc.rsp
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csi.exe
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csi.exe.config
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\csi.rsp
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.AppContext.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Console.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Compression.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Claims.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.ValueTuple.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\vbc.exe.config
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\vbc.rsp
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\EntityFramework.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Helpers.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Mvc.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Optimization.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Razor.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\WebGrease.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\EntityFramework.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\EntityFramework.SqlServer.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Helpers.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Mvc.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Optimization.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.Razor.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\System.Web.WebPages.Razor.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Newtonsoft.Json.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Antlr3.Runtime.pdb
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.Razor.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.csprojAssemblyReference.cache
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.Migrations.CreateMigrations.resources
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.GenerateResource.cache
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.csproj.CopyComplete
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\obj\Debug\codixU.pdb
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Demo.Helper.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\codixU\bin\Demo.Helper.pdb

@@ -1,0 +1,286 @@
+﻿.teachers-cont {
+}
+
+.teachers-cont p {
+        padding-top: 30px;
+    }
+
+.singel-teachers {
+    position: relative;
+}
+
+.singel-teachers .image {
+        border-radius: 5px;
+        overflow: hidden;
+    }
+
+.singel-teachers .image img {
+            -webkit-transition: all 0.4s linear;
+            transition: all 0.4s linear;
+            width: 100%;
+        }
+
+.singel-teachers:hover .image img {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+.singel-teachers .cont {
+        position: absolute;
+        bottom: 15px;
+        left: 0;
+        right: 0;
+        width: 80%;
+        background-color: #fff;
+        border-radius: 5px;
+        margin: 0 auto;
+        padding: 15px;
+    }
+
+.singel-teachers .cont a {
+            display: block;
+        }
+
+.singel-teachers .cont a h6 {
+                color: #000;
+                font-size: 15px;
+                -webkit-transition: all 0.4s linear;
+                transition: all 0.4s linear;
+            }
+
+.singel-teachers .cont a:hover h6 {
+                color: #ffc600;
+            }
+
+.singel-teachers .cont span {
+            font-size: 14px;
+            color: #8a8a8a;
+        }
+.teachers-2 {
+}
+
+    .teachers-2 .teachers-2-singel {
+        background-color: #fff;
+        display: -moz-flex;
+        display: -ms-flex;
+        display: -o-flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        padding: 40px 15px;
+    }
+
+        .teachers-2 .teachers-2-singel .thum {
+        }
+
+            .teachers-2 .teachers-2-singel .thum img {
+                border-radius: 50%;
+            }
+
+        .teachers-2 .teachers-2-singel .cont {
+            padding-left: 20px;
+        }
+
+            .teachers-2 .teachers-2-singel .cont a {
+            }
+
+                .teachers-2 .teachers-2-singel .cont a h5 {
+                    font-size: 18px;
+                    color: #000;
+                    -webkit-transition: all 0.4s linear;
+                    transition: all 0.4s linear;
+                }
+
+                .teachers-2 .teachers-2-singel .cont a:hover h5 {
+                    color: #ffc600;
+                }
+
+            .teachers-2 .teachers-2-singel .cont p {
+                font-size: 15px;
+            }
+
+            .teachers-2 .teachers-2-singel .cont span {
+                font-size: 14px;
+                color: #07294d;
+            }
+
+                .teachers-2 .teachers-2-singel .cont span i {
+                    margin-right: 5px;
+                    color: #ffc600;
+                }
+
+.student-slied {
+    z-index: 5;
+}
+
+.happy-student {
+    background-color: #07294d;
+    padding-top: 65px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.happy-student {
+    background-color: #07294d;
+    padding-top: 65px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    border-radius: 5px;
+    position: relative;
+}
+
+    .happy-student .happy-title {
+    }
+
+        .happy-student .happy-title h3 {
+            font-size: 36px;
+            color: #fff;
+            padding-bottom: 60px;
+        }
+
+    .happy-student .singel-student {
+        position: relative;
+        z-index: 5;
+    }
+
+        .happy-student .singel-student img {
+            padding-bottom: 20px;
+        }
+
+        .happy-student .singel-student p {
+            color: #fff;
+            padding-bottom: 30px;
+            padding-right: 135px;
+        }
+
+        .happy-student .singel-student h6 {
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .happy-student .singel-student span {
+            font-size: 14px;
+            color: #fff;
+        }
+
+    .happy-student .student-image {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+.teachers-left {
+    padding: 40px 50px 35px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+    .teachers-left .hero img {
+        width: 100%;
+        border-radius: 5px;
+    }
+
+    .teachers-left .name {
+        padding-top: 25px;
+    }
+
+        .teachers-left .name h6 {
+            font-size: 18px;
+            color: #000;
+        }
+
+        .teachers-left .name span {
+            font-size: 15px;
+            color: #8a8a8a;
+        }
+
+    .teachers-left .social {
+        padding-top: 15px;
+    }
+
+        .teachers-left .social ul li {
+            display: inline-block;
+        }
+
+            .teachers-left .social ul li a {
+                font-size: 30px;
+                margin-right: 7px;
+            }
+
+            .teachers-left .social ul li:nth-of-type(1) a {
+                color: #212798;
+            }
+
+            .teachers-left .social ul li:nth-of-type(2) a {
+                color: #3c9bff;
+            }
+
+            .teachers-left .social ul li:nth-of-type(3) a {
+                color: #fe1f59;
+            }
+
+            .teachers-left .social ul li:nth-of-type(4) a {
+                color: #474b8c;
+            }
+
+    .teachers-left .description {
+        padding-top: 20px;
+    }
+
+.teachers-right {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+    .teachers-right .nav {
+    }
+
+        .teachers-right .nav .nav-item {
+        }
+
+            .teachers-right .nav .nav-item a {
+                padding: 20px 0;
+                background-color: #315377;
+                color: #fff;
+                font-weight: 15;
+                color: #fff;
+                display: block;
+                font-weight: 600;
+                -webkit-transition: all 0.4s linear;
+                transition: all 0.4s linear;
+            }
+
+                .teachers-right .nav .nav-item a.active,
+                .teachers-right .nav .nav-item a:hover {
+                    background-color: #fff;
+                    color: #315377;
+                }
+
+    .teachers-right .tab-content {
+        padding: 0px 50px 35px;
+        background-color: #fff;
+    }
+
+        .teachers-right .tab-content .dashboard-cont {
+        }
+
+            .teachers-right .tab-content .dashboard-cont .singel-dashboard h5 {
+                font-size: 18px;
+                color: #000;
+                font-weight: 600;
+                padding-bottom: 15px;
+            }
+
+        .teachers-right .tab-content .reviews-cont {
+            padding: 45px 0 15px;
+        }
+
+    .teachers-right .tab-content {
+    }
+

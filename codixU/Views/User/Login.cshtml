@@ -1,0 +1,84 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+@model codixU.Models.DataModels.Login
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>codixU</title>
+
+
+    <link href="~/Files/LoginStyle.css" rel="stylesheet" />
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    @Html.Partial("~/Views/MenuPartialView.cshtml")
+
+    <!-- Header -->
+    <header class="masthead">
+        <div class="container">
+            <div class="intro-text">
+                <div class="login-wrap">
+
+
+
+                    @using (Html.BeginForm("Login", "User", FormMethod.Post))
+                    {
+                        Html.ValidationSummary(true);
+
+                        <div>
+                            @Html.LabelFor(m => m.Email)
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Email)
+                        </div>
+                        <div class="form-row">&nbsp;</div>
+                        <div>
+                            @Html.LabelFor(m => m.Password)
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password)
+                        </div>
+
+                        <div class="form-row">
+                            @Html.ValidationMessageFor(m => m.ErrorMessage)
+                        </div>
+
+                        <div class="form-row">&nbsp;</div>
+
+                        <button type="submit" class="btn btn-primary">Giriş Yap</button>
+
+                    }
+
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+    @Html.Partial("~/Views/FooterPartialView.cshtml")
+
+
+    <!-- Bootstrap core JavaScript -->
+
+
+
+</body>
+
+</html>
+
+
+
+

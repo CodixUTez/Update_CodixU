@@ -1,0 +1,115 @@
+﻿
+@{
+    Layout = null;
+}
+
+@model codixU.Models.DataModels.ListViewModel
+
+    <body>
+        <div class="row">
+            <div class="leftcolumn">
+                <div class="card">
+                    @foreach (var item in Model.RetrunListOfEducations)
+                    {
+                        <h2>@Html.DisplayFor(modelItem => item.Title)</h2>}
+                    <div class="fakeimg" style="height:200px;">Image</div>
+                    @foreach (var item in Model.RetrunListOfEducations)
+                    {
+                        <p>@Html.DisplayFor(modelItem => item.Content)</p>
+
+                    }
+                </div>
+                <div class="card">
+
+                    <h2>kod örneğimiz</h2>
+                    <div class="dp-highlighter">
+                        <div class="bar"></div>
+                        <ol class="dp-c">
+                            @foreach (var item in Model.ReturnListOfCodes)
+                            {
+                                <li class="alt">
+                                    <span>
+                                        <span>@Html.DisplayFor(modelItem => item.Code)</span>
+                                    </span>
+                                </li>
+                            }
+
+                        </ol>
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="rightcolumn">
+                <div class="card">
+                    <h3>Örnek soru</h3>
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
+                </div>
+                <div class="card">
+                    @foreach (var item in Model.ReturnListOfInfo)
+                    {
+                        <h2>@Html.DisplayFor(modelItem => item.Writer)</h2>
+
+                        <p>@Html.DisplayFor(modelItem => item.About)</p>
+                        <p>@Html.DisplayFor(modelItem => item.Tag)</p>}
+                </div>
+                <div class="card">
+
+                    <h3>Yazarın diğer yazıları</h3>
+                    <div class="fakeimg">Konu 1</div><br>
+                    <div class="fakeimg">Konu 2</div><br>
+                    <div class="fakeimg">Konu 3</div>
+                </div>
+
+            </div>
+        </div>
+        <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container" id="quiz">
+
+                            <h1 class="titlee"><span class="glyphicon glyphicon-list-alt"></span>A dynamic quiz</h1>
+                            <p class="lead">The first project from <em><a href="http://javascriptissexy.com/how-to-learn-javascript-properly/">How to Learn Javascript Properly</a></em></p>
+
+                            <div class="contentt">
+
+                                <div id="question">
+
+                                    <h4 id="question-text"></h4>
+
+                                    <ul id="choices"></ul>
+
+                                </div>
+
+                            </div>
+
+                        </div> <!-- close container -->
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-primary">Save changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <link href="~/Files/blog.css" rel="stylesheet">
+        <link href="~/Scripts/syntaxhighlighter.css" rel="stylesheet">
+        <link href="~/Files/bootstrap.min.css" rel="stylesheet">
+        <script src="~/Scripts/jquery.min.js"></script>
+        <script src="~/Scripts/bootstrap.bundle.min.js"></script>
+        <script src="~/Scripts/jquery.easing.min.js"></script>
+        <script src="~/Scripts/jqBootstrapValidation.js"></script>
+        <script src="~/Scripts/contact_me.js"></script>
+        <script src="~/Scripts/agency.min.js"></script>
+
+    </body>
+
+

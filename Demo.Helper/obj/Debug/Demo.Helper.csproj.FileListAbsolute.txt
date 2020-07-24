@@ -1,0 +1,5 @@
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\Demo.Helper\bin\Debug\Demo.Helper.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\Demo.Helper\bin\Debug\Demo.Helper.pdb
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\Demo.Helper\obj\Debug\Demo.Helper.csprojAssemblyReference.cache
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\Demo.Helper\obj\Debug\Demo.Helper.dll
+C:\Users\dikma\Downloads\CodixU-master\CodixU-master\codixU\Demo.Helper\obj\Debug\Demo.Helper.pdb

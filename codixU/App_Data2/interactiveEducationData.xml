@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Educations>
+    <info>
+    <Title>JAVA</Title>
+
+    <Description >
+      Tootsie roll tiramisu macaroon wafer carrot cake.
+      Danish topping sugar plum tart bonbon caramels cake.
+    </Description>
+  </info>
+  <Education>
+    <EducationTitle>veri tipleri </EducationTitle> 
+    <EducationContent>
+      java Veri Tipleri ve Değişkenler konumuza tam sayı veri tipleriyle başlıyoruz. Java’da 4 çeşit tam sayı tipi vardır, bunlar diğer tüm yazılım dillerinde olduğu gibi bit lerle ifade edilir. Her bir tipin bit olarak bir büyüklüğü ve destek verdiği bir aralık vardır.
+
+      BYTE: byte en küçük tam sayı tipidir. Büyüklüğü 8 bit tir ve -128 ile +127 arası değer alır. Kod geliştirirken byte anahtar kelimesi ile tanımlama yapılır.
+      Java’da iki çeşit reel sayı tipi vardır. Tam sayı tiplerinde olduğu gibi reel sayı tipleri de bit lerle ifade edilir. float veri tipi 32 bitlik büyüklüğe sahipken double veri tipi 64 bit lik büyüklüğe sahiptir.
+
+      FLOAT: float veri tipi 32 bitlik büyüklüğe sahiptir ve 1.4×10^-45 ile 3.4×10^38 aralığında bir değer tanımlanabilir. float olarak belirlenmiş olan veri tipine integer bir değer atandığı takdirde java tarafından direk olarak 1.0 şeklinde algılanır. Geliştirme aşamasında hata oluşmaz. Fakat float veri tanımlarken (.) noktadan sonra değişken değerinin sonuna “f” veya “F” koyulmadığı takdirde geliştirme esnasında hata alınacaktır. Sebebi ise javanın bu değişkeni double olarak algılayacak olmasıdır. Aşağıdaki örneklerle konuya biraz daha açıklık getirmeye çalışalım.
+      ava Veri Tipleri ve Değişkenler konumuza tam sayı veri tipleriyle başlıyoruz. Java’da 4 çeşit tam sayı tipi vardır, bunlar diğer tüm yazılım dillerinde olduğu gibi bit lerle ifade edilir. Her bir tipin bit olarak bir büyüklüğü ve destek verdiği bir aralık vardır.
+
+      BYTE: byte en küçük tam sayı tipidir. Büyüklüğü 8 bit tir ve -128 ile +127 arası değer alır. Kod geliştirirken byte anahtar kelimesi ile tanımlama yapılır.
+      Java’da iki çeşit reel sayı tipi vardır. Tam sayı tiplerinde olduğu gibi reel sayı tipleri de bit lerle ifade edilir. float veri tipi 32 bitlik büyüklüğe sahipken double veri tipi 64 bit lik büyüklüğe sahiptir.
+
+      FLOAT: float veri tipi 32 bitlik büyüklüğe sahiptir ve 1.4×10^-45 ile 3.4×10^38 aralığında bir değer tanımlanabilir.
+      ava Veri Tipleri ve Değişkenler konumuza tam sayı veri tipleriyle başlıyoruz. Java’da 4 çeşit tam sayı tipi vardır, bunlar diğer tüm yazılım dillerinde olduğu gibi bit lerle ifade edilir. Her bir tipin bit olarak bir büyüklüğü ve destek verdiği bir aralık vardır.
+
+      BYTE: byte en küçük tam sayı tipidir. Büyüklüğü 8 bit tir ve -128 ile +127 arası değer alır. Kod geliştirirken byte anahtar kelimesi ile tanımlama yapılır.
+      Java’da iki çeşit reel sayı tipi vardır. Tam sayı tiplerinde olduğu gibi reel sayı tipleri de bit lerle ifade edilir. float veri tipi 32 bitlik büyüklüğe sahipken double veri tipi 64 bit lik büyüklüğe sahiptir.
+
+      FLOAT: float veri tipi 32 bitlik büyüklüğe sahiptir ve 1.4×10^-45 ile 3.4×10^38 aralığında bir değer tanımlanabilir.
+    </EducationContent>     
+  </Education>
+
+  <Education>
+    <EducationTitle>if else</EducationTitle> 
+    <EducationContent>
+      Bir java uygulaması yazdığımızı farz edelim.(İf koşulunun mantığı tüm programlama dillerinde aynıdır,sadece syntax farklı olabilir). Bu uygulama içinde bir kod bloğunun çalışması için bir şart gerekli diyelim. Örneğin çarpma işlemi yapacağız klavyeden girilen bir sayıyı 5 ile çarpacağız, ama girilen sayının 0’dan büyük olmasını istiyoruz. Bu ve buna benzer durumlarda kullanılan if koşulunun kullanımına geçmeden önce if koşulunu oluştururken sıkça kullanacağımız karşılaştırma operatörlerinden bahsedeceğim.
+    </EducationContent>     
+  </Education>
+</Educations>
